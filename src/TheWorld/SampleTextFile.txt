@@ -1,0 +1,3 @@
+﻿This is an update to the sample test file
+New Addition
+Another new addition
